@@ -2,7 +2,7 @@ import React from "react";
 
 const Searchbar = () => {
   return (
-    <div className="searchbar">
+    <div className="search">
       <div className="searchform">
         <input type="text" placeholder="Find a user" />
       </div>
