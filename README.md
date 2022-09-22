@@ -10,4 +10,6 @@ Email: valentinomartinez55@gmail.com
 
 ![portada](https://user-images.githubusercontent.com/93661868/191863578-e5593c9f-88a5-4c30-810c-c9a312296a4a.png)
 
+Fun fact: the profile pictures in the image were made with dall-e :)
+
 
